@@ -1,0 +1,54 @@
+{
+  "card_stacks": {
+    "categories": {
+      "Intro To Pharmacy & Health 1": [
+        {
+          "drugs_group_a": {
+            "name": "Drugs Group A",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy1/groupA.cards"
+          },
+          "drugs_group_b": {
+            "name": "Drugs Group B",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy1/GroupB.cards"
+          },
+          "drugs_group_c": {
+            "name": "Drugs Group C",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy1/GroupC.cards"
+          },
+          "drugs_group_d": {
+            "name": "Drugs Group D",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy1/GroupD.cards"
+          }
+        }
+      ],
+      "Intro To Pharmacy & Health 2": [
+        {
+          "drugs_group_a": {
+            "name": "Drugs Group A",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy2/GroupA.cards"
+          },
+          "drugs_group_b": {
+            "name": "Drugs Group B",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy2/GroupB.cards"
+          },
+          "drugs_group_c": {
+            "name": "Drugs Group C",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy2/GroupC.cards"
+          },
+          "drugs_combines": {
+            "name": "All Combined",
+            "description": "Collection of drug generic names and brand names",
+            "deck_slug": "IntroToPharmacy2/Combined.cards"
+          }
+        }
+      ]
+    }
+  }
+}
