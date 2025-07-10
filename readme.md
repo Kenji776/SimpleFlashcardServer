@@ -1,6 +1,6 @@
 # Simple Flashcard Server
 
-This is the **Node.js backend server** for the **Simple Flashcard App**, responsible for providing flashcard decks, mascot images, and integrating with third-party APIs like **OpenAI** and **ElevenLabs** to generate dynamic content.
+This is the **Node.js backend server** for the **Simple Flashcard App**, responsible for providing flashcard decks, mascot images, and integrating with **OpenAI** and **ElevenLabs** to generate dynamic content.
 
 ## Features
 
@@ -40,7 +40,7 @@ project-root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Kenji776/SimpleFlashcardServer.git
 cd <repo-name>
 ```
 
@@ -119,11 +119,6 @@ The frontend uses `/decks` to retrieve this structure and present deck options t
 - External API requests are abstracted in their respective modules:
   - `openai-connector.js`
   - `elevenlabs.js`
-
-## Security
-
-- Do not commit your `.env` file.
-- Make sure to restrict and monitor your API key usage on OpenAI and ElevenLabs dashboards.
 
 ## Example API Request
 
