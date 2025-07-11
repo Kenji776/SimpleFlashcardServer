@@ -10,7 +10,6 @@
     "mood": 50,
     "uncensoredMode": false,
     "urls": {
-        "wordsLibrary": "https://pharmacy-flashcards-2027.lol/mascotWords.json",
         "sounds": {
             "fart": [
                 "fart1.wav",
